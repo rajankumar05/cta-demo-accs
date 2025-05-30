@@ -1,0 +1,12 @@
+mountpoints:
+  /:
+    url: https://content.da.live/cta/accs-demo-site/
+    type: markup
+
+folders:
+  /products/: /products/default
+  /apparel: /categories/default
+  /office: /categories/default
+  /lifestyle: /categories/default
+  /bags: /categories/default
+  /collections: /categories/default
