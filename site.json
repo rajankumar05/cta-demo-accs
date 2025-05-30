@@ -10,8 +10,9 @@
   },
   "content": {
     "source": {
-      "url": "{CONTENT_SOURCE}",
-      "type": "onedrive"
+    "url": "https://author-p99403-e1034452.adobeaemcloud.com/bin/franklin.delivery/rajankumar05/cta-demo-accs/main"
+    "type": "markup"
+    "suffix": ".html"
     }
   },
   "folders": {
