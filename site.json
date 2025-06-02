@@ -37,9 +37,9 @@
         },
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-          "Magento-Store-Code": "base",
+          "Magento-Store-Code": "AhnwChMpqxzEerTZaMpfcF",
           "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "main_website_store",
+          "Magento-Website-Code": "base",
           "x-api-key": "search_gql",
           "Magento-Environment-Id": "AhnwChMpqxzEerTZaMpfcF"
         }
@@ -47,7 +47,7 @@
       "analytics": {
         "base-currency-code": "USD",
         "environment": "Production",
-        "store-id": "{STORE_ID}",
+        "store-id": "1",
         "store-name": "Main Website Store",
         "store-url": "{DOMAIN}",
         "store-view-id": "{STORE_VIEW_ID}",
